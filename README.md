@@ -1,1 +1,1 @@
-# algorithms_in_C
+# Algorithms from HackerRank done by me in C++
